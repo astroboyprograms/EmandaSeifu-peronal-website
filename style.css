@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffe0;
+    color: #333;
+}
+
+div {
+    margin: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #ffd700;
+    border-bottom: 1px solid #daa520;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.6em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #ffd700;
+    margin-top: 30px;
+    border-bottom: 1px solid #daa520;
+}
